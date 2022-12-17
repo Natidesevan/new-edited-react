@@ -2,7 +2,7 @@ import React from 'react';
 import { Container, Row, Col, Tab, Nav, Image, Form, Button, Badge } from 'react-bootstrap';/* eslint-disable-line */
 import { useThemeHook } from '../GlobalComponents/ThemeProvider';
 import Heading from  '../components/Heading';
-import profilePix from '../components/images/profile-picture.jpg';
+import profilePix from '../components/images/Profile-picture.jpg';
 import { FaClipboardList, FaUser } from 'react-icons/fa';
 import { GiWallet} from 'react-icons/gi';
 import { IoLocationSharp } from 'react-icons/io5';
